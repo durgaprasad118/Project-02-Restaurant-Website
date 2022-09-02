@@ -10,7 +10,7 @@ body {
       rgba(23, 30, 70, 0.5),
       rgba(53, 20, 81, 0.73)
     ),
-    url(pexels.png);
+    url(/Images/pexels.png);
   height: 98vh;
   width: 100%;
   background-position: center;
